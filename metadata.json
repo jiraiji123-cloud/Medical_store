@@ -1,0 +1,6 @@
+{
+  "name": "Medical Store Inventory Manager",
+  "description": "A comprehensive medical store management platform with shelf mapping, stock levels, automated expiration alerts, and dynamic Gemini onboarding suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
